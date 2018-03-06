@@ -1,3 +1,3 @@
 Death Race
 
-A simple arcade racing game written on C language with Emulated Turbo C++ 3.00 IDE.
+A simple arcade racing game written in C language with Emulated Turbo C++ IDE.
